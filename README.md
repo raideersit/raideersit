@@ -1,5 +1,11 @@
+# About Me
+Soy Álvaro, estudiante de 4.º año de Ingeniería Civil en Informática en la Universidad de Los Lagos (Osorno). Me dedico sobre todo al desarrollo móvil Android con Kotlin y Jetpack Compose, con backends y bases de datos PostgreSQL por detrás.
 
- I'm currently working on: <br>Mi cuarto año de Ingeniería Civil en Informática en la Universidad de Los Lagos, con especialización en desarrollo de aplicaciones móviles en Android Studio integradas con arquitecturas escalables en la nube y bases de datos relacionales (SQL, PostgreSQL).<br><br>👯 I'm looking to collaborate on: <br>Proyectos interdisciplinarios que mezclen desarrollo de software y tecnología con economía y marketing (fintech, apps de impacto social, iniciativas de emprendimiento tech similar al HUB Tecnológico 3IE). Preferentemente con equipos que valoren la innovación y el aprendizaje colaborativo.<br><br>🤝 I'm looking for help with: <br>Arquitecturas escalables y patrones de diseño avanzados (MVVM, Clean Architecture) para aplicaciones móviles complejas, integración con servicios en la nube (Firebase, AWS), y estrategias DevOps para CI/CD.<br><br>🌱 I'm currently learning: <br>- Arquitectura de microservicios en la nube (Firebase, PostgreSQL avanzado)<br>- Patrones de diseño y arquitectura (MVVM, Clean Architecture)<br>- Conceptos de economía y marketing aplicados al desarrollo de productos de software<br>- Robótica y IoT<br>- Kotlin avanzado y composables en Jetpack Compose<br><br>💬 Ask me about: <br>Desarrollo nativo en Android, estructuración de bases de datos relacionales, optimización de aplicaciones móviles, configuración de entornos de desarrollo, o cómo sacar el máximo rendimiento en Counter-Strike 2.<br><br><br>📍 Ubicación: Osorno, Los Lagos, Chile | Abierto a colaboraciones remotas<br><br>
+Me interesan los proyectos que cruzan el software con la economía y el emprendimiento —fintech, apps con impacto social y cosas por el estilo—, y los equipos donde se aprende colaborando. Ahora ando metido en Clean Architecture, servicios en la nube y algo de robótica e IoT.
+
+Pregúntame sobre desarrollo Android, bases de datos o cómo rendir mejor en Counter-Strike 2.
+
+Osorno, Chile · Abierto a colaboraciones remotas.
 
 
 ## 🌐 Socials:
