@@ -3,7 +3,7 @@ Soy Álvaro, estudiante de 4.º año de Ingeniería Civil en Informática en la 
 
 Me interesan los proyectos que cruzan el software con la economía y el emprendimiento —fintech, apps con impacto social y cosas por el estilo—, y los equipos donde se aprende colaborando. Ahora ando metido en Clean Architecture, servicios en la nube y algo de robótica e IoT.
 
-Pregúntame sobre desarrollo Android, bases de datos o cómo rendir mejor en Counter-Strike 2.
+Pregúntame sobre desarrollo Android, bases de datos o cómo dominar la toplane dea.
 
 Osorno, Chile · Abierto a colaboraciones remotas.
 
