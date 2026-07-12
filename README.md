@@ -5,7 +5,7 @@ Me interesan los proyectos que cruzan el software con la economía y el emprendi
 
 Pregúntame sobre desarrollo Android, bases de datos o cómo dominar la toplane dea.
 
-Osorno, Chile · Abierto a colaboraciones remotas.
+Osorno, Chile.
 
 
 ## 🌐 Socials:
