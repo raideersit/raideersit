@@ -1,7 +1,5 @@
 
-Soy Álvaro, estudiante de 4.º año de Ingeniería Civil en Informática en la Universidad de Los Lagos (Osorno). Me dedico sobre todo al desarrollo móvil Android con Kotlin y Jetpack Compose, con backends y bases de datos PostgreSQL por detrás.
-
-Me interesan los proyectos que cruzan el software con la economía y el emprendimiento —fintech, apps con impacto social y cosas por el estilo—, y los equipos donde se aprende colaborando. Ahora ando metido en Clean Architecture, servicios en la nube y algo de robótica e IoT.
+Soy Álvaro, estudiante de 4.º año de Ingeniería Civil en Informática en la Universidad de Los Lagos (Osorno). 
 
 
 
