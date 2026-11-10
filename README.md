@@ -12,9 +12,3 @@ Soy Álvaro, estudiante de 4.º año de Ingeniería Civil en Informática en la 
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 📫 Contacto
-
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_CORREO)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](TU_LINK_DISCORD)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
