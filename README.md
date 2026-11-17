@@ -1,5 +1,4 @@
 
-Soy Álvaro, estudiante de 4.º año de Ingeniería Civil en Informática en la Universidad de Los Lagos (Osorno).
 
 ## 💻 Tech Stack
 
